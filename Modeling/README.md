@@ -16,9 +16,9 @@ Building a Deep Learning Regression model which predicts the age of a person for
 ![Best Model](model_development/best.png)
 
 ### Evaluation
-* Best MSE: 30.419 and Validation MSE: 36.53
-![Loss](model_development/mse.png)
-* Best MAE: 4.316 and Validation MAE: 4.864
-![MAE](model_development/mae.png)
-* Variance
+* Best MSE: 30.419 and Validation MSE: 36.53<br>
+![Loss](model_development/mse.png)<br>
+* Best MAE: 4.316 and Validation MAE: 4.864<br>
+![MAE](model_development/mae.png)<br>
+* Variance<br>
 ![Variance](model_development/variance.png)

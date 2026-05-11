@@ -9,9 +9,9 @@ Worked with flask to deploy the model using a simple web page where the user is 
 *you can find more about the deployment in the 'Deployment/' directory's README.md*
 
 ### Modeling
-Experimented with transfer learning using Xception model and designed a custom model inspired from VGGnet.
-Tracked my experiments utilizing [Weights&Biases](https://wandb.ai/site/).
-Concluded my experiments with the custom modeling reaching less than 5 MAE.
+Experimented with transfer learning using Xception model and designed a custom model inspired from VGGnet.<br>
+Tracked my experiments utilizing [Weights&Biases](https://wandb.ai/site/).<br>
+Concluded my experiments with the custom modeling reaching less than 5 MAE.<br>
 
 ![MAE](Modeling/model_development/variance.png)
 
