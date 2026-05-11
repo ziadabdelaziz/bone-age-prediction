@@ -22,10 +22,3 @@ Building a Deep Learning Regression model which predicts the age of a person for
 ![MAE](model_development/mae.png)
 * Variance
 ![Variance](model_development/variance.png)
-
-### Deployment
-* using <cite>[Deployment-flask][1]</cite> template from <cite>[Krish C Naik][2]</cite>
-![Web App](app3.png)
-
-[1]:https://github.com/krishnaik06/Deployment-flask
-[2]:https://github.com/krishnaik06
