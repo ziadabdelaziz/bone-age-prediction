@@ -1,6 +1,6 @@
 # Bone Age Prediction Model
-Building a Deep Learning Regression model which predicts the age of a person for the X-ray scan of his hand.
-
+Building a Deep Learning Regression model which predicts the age of a person for the X-ray scan of his hand.<br>
+*you can find my notebook on [kaggle](https://www.kaggle.com/code/ziadabdelaziz/bone-age-prediction)*
 
 ### Preprocessing
 * rescaling the image values to [0, 1]
